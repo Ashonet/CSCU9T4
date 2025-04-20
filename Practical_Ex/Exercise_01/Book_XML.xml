@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <year>1949</year>
+        <pages>328</pages>
+        <price>7.99</price>
+        <publicationDate>1949-06-08</publicationDate>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Fiction</genre>
+        <year>1960</year>
+        <pages>281</pages>
+        <price>6.99</price>
+        <publicationDate>1960-07-11</publicationDate>
+    </book>
+</bookstore>

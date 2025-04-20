@@ -1,0 +1,5 @@
+Root element: bookstore
+
+Child element: book (can occur multiple times)
+
+Child elements: title (string), author (string), genre (string), year (integer), pages (integer), price (float), publicationDate (date)
